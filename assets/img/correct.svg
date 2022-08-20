@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg13706" viewBox="0 0 32 32" version="1.0">
+  <g id="layer1">
+    <path id="rect19049" stroke-linejoin="round" d="m24.804 0.80357c-0.489-0.02737-1.033 0.28253-1.344 0.81253l-10.625 18.094h-0.469l-7.2187-4.031c-0.2371-0.132-0.5561-0.033-0.7187 0.218l-3.817 5.974c-0.16264 0.251-0.11209 0.689 0.12501 0.821l14.785 8.393c0.579 0.34 1.398 0.05 1.813-0.656l14.156-24.094c0.415-0.7068 0.266-1.5663-0.312-1.9064l-5.907-3.4688c-0.144-0.085-0.306-0.1471-0.468-0.15623z" stroke="#00461b" stroke-width=".6" fill="#fff"/>
+    <path id="rect19085" d="m26.33 3.1696c-0.341-0.0593-0.703 0.1279-0.906 0.4688l-11.576 19.509-7.6426-4.477c-0.5279-0.3-1.1753-0.217-1.4688 0.218l-1.5625 2.313c-0.2935 0.435-0.0904 1.044 0.4375 1.344l10.312 5.843c0.203 0.116 0.411 0.158 0.625 0.157 0.367 0.108 0.779-0.035 1-0.407l13.188-22.218c0.27-0.4548 0.163-1.061-0.25-1.3441l-1.844-1.25c-0.103-0.0708-0.199-0.1365-0.313-0.1563z" fill="#007308"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>apply</dc:title>
+        <dc:date>2006-11-27T02:35:22</dc:date>
+        <dc:description>A green apply icon.</dc:description>
+        <dc:source>http://openclipart.org/detail/1644/apply-by-dagobert83</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>dagobert83</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>accept</rdf:li>
+            <rdf:li>affirmative</rdf:li>
+            <rdf:li>apply</rdf:li>
+            <rdf:li>approve</rdf:li>
+            <rdf:li>button</rdf:li>
+            <rdf:li>checkbox</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>green</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>okay</rdf:li>
+            <rdf:li>png</rdf:li>
+            <rdf:li>positive</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>svg</rdf:li>
+            <rdf:li>tick</rdf:li>
+            <rdf:li>yes</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
